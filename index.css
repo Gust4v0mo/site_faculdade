@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; 
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.custom-background {
+    background-color: rgba(0, 5, 0, 0.5); 
+    background-image: url('eliminado.webp'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding: 150px;
+    text-align: center;
+    margin: 40px auto;
+    max-width: 600px;
+    border-radius: 1000px;
+}
